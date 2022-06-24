@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650073350860",
+    "project_id": "probando-c0546",
+    "storage_bucket": "probando-c0546.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650073350860:android:a65bc4ffeb669093361869",
+        "android_client_info": {
+          "package_name": "io.guardiaimperial.probando"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650073350860-3139lc7dk04uqsntf3jpnt1600db5a0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA-YLL-i0NRwILjed45gfP1m8OwiH9o8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650073350860-3139lc7dk04uqsntf3jpnt1600db5a0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
